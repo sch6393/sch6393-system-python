@@ -37,7 +37,7 @@ sch6393-system-python
 
 1. [Download key file](#get-useruid-apikey) and put key file in `ApiKey` folder
 
-1. Put this sample file in `Process` folder
+1. Put `Process.py` file in `Process` folder, `Sample.py` file in json directory folder
     * [Process.py](./Process/Process.py)
     * [Sample.py](./Process/Sample.py)
 
@@ -45,7 +45,7 @@ sch6393-system-python
     ```JSON
     {
       "type": "py",
-      "py": "Sample.py"
+      "py": "C:\\Sample.py"
     }
     ```
 
